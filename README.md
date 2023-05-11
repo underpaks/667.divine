@@ -8,7 +8,7 @@ Enable/Disable Menu display `Numpad + 6`
 // ==UserScript==
 // @name         667 Divine
 // @namespace    http://tampermonkey.net/
-// @version      1.0.3
+// @version      1.0.4
 // @description  Click Supplies & Utils, D3s control.
 // @author       Aemond.#1111 & Morin_#6667
 // @match        https://*.tankionline.com/*
