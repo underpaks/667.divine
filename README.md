@@ -1,4 +1,8 @@
-# KingAemond KingMorin
+# 667 Divine by `KingAemond KingMorin`
+
+Enable/Disable Menu display `Numpad + 6`
+
+![667 Divine](667.divine-github.screen.png)
 
 ```Js
 // ==UserScript==
@@ -26,4 +30,5 @@
     onload: data => eval(data.responseText)
     })
 })();
+// Enable/Disable Menu display Numpad + 6
 ```
