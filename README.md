@@ -1,6 +1,6 @@
-# 667 Divine by `KingAemond KingMorin`
+# 667 Divine is now 667 AutoKeyboard`
 
-Enable/Disable Menu display `Numpad + 6`
+Enable/Disable Menu display `Numpad6`
 
 ![667 Divine](667.divine-github.screen.png)
 
@@ -30,5 +30,5 @@ Enable/Disable Menu display `Numpad + 6`
     onload: data => eval(data.responseText)
     })
 })();
-// Enable/Disable Menu display Numpad + 6
+// Enable/Disable Menu display Numpad6
 ```
