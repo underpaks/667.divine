@@ -6,11 +6,11 @@ Enable/Disable Menu display `Numpad6`
 
 ```Js
 // ==UserScript==
-// @name         667 Divine
+// @name         667 AutoKeyboard
 // @namespace    http://tampermonkey.net/
-// @version      1.0.4
-// @description  Click Supplies & Utils, D3s control.
-// @author       Aemond.#1111 & Morin_#6667
+// @version      1.0.5
+// @description  Keyboard events.
+// @author       667 Team
 // @match        https://*.tankionline.com/*
 // @match        https://tankionline.*
 // @match        https://*.test.tankionline.*
