@@ -2,7 +2,8 @@
 
 Enable/Disable Menu display `Numpad6`
 
-![667 Divine](667.divine-github.screen.png)
+![667AutoKeyboard](https://github.com/underpaks/667.divine/assets/45364616/023f8b81-f1ba-47ec-9af3-8115907a366e)
+
 
 ```Js
 // ==UserScript==
